@@ -1,5 +1,5 @@
 {
   "name": "@quackware/json-schema",
-  "description": "$QUACKAWRE_PACKAGE_DESCRIPTION",
+  "description": "JSON Schema types, helpers, and validation functionality powered by TypeBox",
   "version": "0.0.1"
 }
