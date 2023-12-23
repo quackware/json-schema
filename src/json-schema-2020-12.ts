@@ -1,4 +1,3 @@
-// deno-lint-ignore-file no-namespace no-explicit-any
 // This code is automatically generated. Manual editing is not recommended.
 
 /*
